@@ -4,6 +4,6 @@ public class HelloWorld
     {
         System.out.println("Hello World!");
         System.out.println("hello from friend");
-	System.out.println("Khush was here!");    
+	System.out.println("This sucks!");    
 	}
 }
